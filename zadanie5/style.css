@@ -1,0 +1,60 @@
+h1 {
+  color: red;
+}
+h2 {
+  margin: 0 auto;
+}
+
+nav {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 0 auto;
+  width: 300px;
+}
+body {
+  background-color: azure;
+}
+
+main {
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  margin: 0 auto;
+}
+.short {
+  display: inline-block;
+  width: 50%;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.long {
+  display: inline-block;
+  width: 20%;
+  margin-left: 40px;
+  vertical-align: top;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.row {
+  display: inline-block;
+  width: 30%;
+  margin-left: 10px;
+}
+
+.row2 {
+  display: inline-block;
+  width: 30%;
+  margin-left: 10px;
+}
+.row3 {
+  display: inline-block;
+  width: 30%;
+  margin-left: 10px;
+}
